@@ -1,0 +1,13 @@
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\bin\Debug\Poke dex.exe.config
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\bin\Debug\Poke dex.exe
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\bin\Debug\Poke dex.pdb
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\bin\Debug\Poke dex.xml
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.vbproj.AssemblyReference.cache
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke_dex.Form1.resources
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke_dex.Resources.resources
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.vbproj.GenerateResource.cache
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.vbproj.CoreCompileInputs.cache
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.exe
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.xml
+C:\Users\embog669\Downloads\SY22-23\VB\Poke dex\Poke dex\obj\Debug\Poke dex.pdb
