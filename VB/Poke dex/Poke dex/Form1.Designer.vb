@@ -250,8 +250,6 @@ Partial Class Form1
         Me.Controls.Add(Me.venusaurpicture)
         Me.Controls.Add(Me.charizardpicture)
         Me.Controls.Add(Me.displaypicture)
-        Me.Name = "Form1"
-        Me.Text = "Pokedex"
         CType(Me.Pikachupicture, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.blastoisepicture, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Tyranitarpicture, System.ComponentModel.ISupportInitialize).EndInit()
