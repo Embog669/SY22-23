@@ -1,0 +1,4 @@
+C:\Users\embog669\Desktop\SY22-23\VB\PracticeProject\PracticeProject\obj\Debug\PracticeProject.vbproj.AssemblyReference.cache
+C:\Users\embog669\Desktop\SY22-23\VB\PracticeProject\PracticeProject\obj\Debug\PracticeProject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Desktop\SY22-23\VB\PracticeProject\PracticeProject\obj\Debug\PracticeProject.Form1.resources
+C:\Users\embog669\Desktop\SY22-23\VB\PracticeProject\PracticeProject\obj\Debug\PracticeProject.vbproj.GenerateResource.cache
