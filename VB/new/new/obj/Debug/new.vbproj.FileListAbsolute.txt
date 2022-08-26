@@ -1,0 +1,13 @@
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\bin\Debug\new.exe.config
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\bin\Debug\new.exe
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\bin\Debug\new.pdb
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\bin\Debug\new.xml
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.vbproj.AssemblyReference.cache
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.Form1.resources
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.Resources.resources
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.vbproj.GenerateResource.cache
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.vbproj.CoreCompileInputs.cache
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.exe
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.xml
+C:\Users\embog669\Downloads\SY22-23\VB\new\new\obj\Debug\new.pdb

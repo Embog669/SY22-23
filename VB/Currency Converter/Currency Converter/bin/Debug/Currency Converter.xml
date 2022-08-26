@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Currency Converter
+</name>
+</assembly>
+<members>
+<member name="T:Currency_Converter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.china_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.Flag_of_Germany">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.flag_of_The_United_Kingdom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.japanflag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.mexico_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.south_korea_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Currency_Converter.My.Resources.Resources.USA_FLag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
