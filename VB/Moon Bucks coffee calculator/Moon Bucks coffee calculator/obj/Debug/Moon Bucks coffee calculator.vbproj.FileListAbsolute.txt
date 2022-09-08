@@ -1,0 +1,13 @@
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\bin\Debug\Moon Bucks coffee calculator.exe.config
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\bin\Debug\Moon Bucks coffee calculator.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\bin\Debug\Moon Bucks coffee calculator.pdb
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\bin\Debug\Moon Bucks coffee calculator.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.vbproj.AssemblyReference.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon_Bucks_coffee_calculator.Form1.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon_Bucks_coffee_calculator.Resources.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.vbproj.GenerateResource.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.vbproj.CoreCompileInputs.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Moon Bucks coffee calculator\Moon Bucks coffee calculator\obj\Debug\Moon Bucks coffee calculator.pdb

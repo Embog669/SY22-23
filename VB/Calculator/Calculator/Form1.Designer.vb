@@ -315,7 +315,7 @@ Partial Class Form1
         Me.MemoryPlusButton.BackColor = System.Drawing.Color.LightSkyBlue
         Me.MemoryPlusButton.Font = New System.Drawing.Font("Lucida Console", 6.0!)
         Me.MemoryPlusButton.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.MemoryPlusButton.Location = New System.Drawing.Point(216, 89)
+        Me.MemoryPlusButton.Location = New System.Drawing.Point(190, 89)
         Me.MemoryPlusButton.Name = "MemoryPlusButton"
         Me.MemoryPlusButton.Size = New System.Drawing.Size(34, 43)
         Me.MemoryPlusButton.TabIndex = 25
@@ -350,7 +350,6 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackgroundImage = Global.Calculator.My.Resources.Resources.claculator
         Me.ClientSize = New System.Drawing.Size(284, 471)
         Me.Controls.Add(Me.MemoryButton)
         Me.Controls.Add(Me.MemoryClearButton)
