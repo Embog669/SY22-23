@@ -19,6 +19,7 @@
     End Sub
 
     Private Sub CalculateButton_Click(sender As Object, e As EventArgs) Handles CalculateButton.Click
+        PriceTextBox.Clear()
         PriceTextBox.Text = Pounds * 4.99
     End Sub
 

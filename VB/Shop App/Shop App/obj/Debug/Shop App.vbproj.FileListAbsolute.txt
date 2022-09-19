@@ -1,0 +1,18 @@
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\bin\Debug\Shop App.exe.config
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\bin\Debug\Shop App.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\bin\Debug\Shop App.pdb
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\bin\Debug\Shop App.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.vbproj.AssemblyReference.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form1.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Resources.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.vbproj.GenerateResource.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.vbproj.CoreCompileInputs.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop App.pdb
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form4.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form2.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form3.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form5.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Shop App\Shop App\obj\Debug\Shop_App.Form6.resources

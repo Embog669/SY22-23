@@ -1,0 +1,16 @@
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\bin\Debug\Multi Form.exe.config
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\bin\Debug\Multi Form.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\bin\Debug\Multi Form.pdb
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\bin\Debug\Multi Form.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.vbproj.AssemblyReference.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.vbproj.SuggestedBindingRedirects.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi_Form.Form1.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi_Form.Resources.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.vbproj.GenerateResource.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.vbproj.CoreCompileInputs.cache
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.exe
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.xml
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi Form.pdb
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi_Form.Form2.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi_Form.Form3.resources
+C:\Users\embog669\Desktop\SY22-23\VB\Multi Form\Multi Form\obj\Debug\Multi_Form.Form4.resources
