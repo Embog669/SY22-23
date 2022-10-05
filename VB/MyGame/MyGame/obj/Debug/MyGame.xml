@@ -22,6 +22,46 @@ MyGame
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MyGame.My.Resources.Resources.black_bishop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_king">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_knight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_pawn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_queen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_rook">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.black_rook1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.chess_board">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MyGame.My.Resources.Resources.donut_circle">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -33,6 +73,41 @@ MyGame
 </summary>
 </member>
 <member name="P:MyGame.My.Resources.Resources.Pokemonxy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_bishop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_king">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_knight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_knight1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.White_pawn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_queen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.white_rook">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

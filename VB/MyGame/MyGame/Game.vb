@@ -15,7 +15,7 @@
         p.Location += dir
 
 
-        'Go through all objects on Form1
+        'Go through all objects on Form2
         For Each c In Form1.Controls
             If c.visible AndAlso Not c Is p AndAlso c.GetType Is GetType(PictureBox) Then
                 'report any collisions
@@ -44,12 +44,7 @@
             PlayerMoves.Remove(1)
         End If
     End Sub
-    Sub Follow(follower As PictureBox, speed As Point)
-        If Form1.Player.Location.X < follower.Location.X Then moveto(follower, -speed.X, 0)
-        If Form1.Player.Location.X > follower.Location.X Then moveto(follower, speed.X, 0)
-        If Form1.Player.Location.Y > follower.Location.Y Then moveto(follower, 0, speed.Y)
-        If Form1.Player.Location.Y < follower.Location.Y Then moveto(follower, 0, -speed.Y)
-    End Sub
+
 
     Function CreatePicture(bullet As PictureBox, loc As Point) As PictureBox
         Dim p As New PictureBox
@@ -108,7 +103,7 @@
                     Case "CHASE"
                         chase(p.Key)
                     Case "FOLLOW"
-                        Follow(p.Key, p.Value.dir)
+
                     Case "RANDOM"
                         moveto(p.Key, p.Value.dir + New Point(r.Next(-10, 10), r.Next(-10, -10)))
                 End Select
