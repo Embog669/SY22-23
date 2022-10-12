@@ -30,4 +30,22 @@
         'if none of the above happened, let the object move
         Return True ' let it move
     End Function
+    Dim Offset As Point
+    Private Sub whitepawn0_MouseDown(sender As Object, e As MouseEventArgs) Handles whitepawn0.MouseDown
+        Offset = New Point(-e.X, -e.Y)
+    End Sub
+    Private Sub whitepawn0_MouseMove(ByVal sender As Object, ByVal e As MouseEventArgs) Handles whitepawn0.MouseMove, whitepawn1.MouseMove, whitepawn2.MouseMove, whitepawn3.MouseMove, whitepawn4.MouseMove, whitepawn5.MouseMove, whitepawn6.MouseMove, whitepawn7.MouseMove, whiterook0.MouseMove, whiterook1.MouseMove, whiteknight0.MouseMove, whiteknight1.MouseMove, whitebishop0.MouseMove, whitebishop1.MouseMove, whiteking.MouseMove, whitequeen.MouseMove
+        If e.Button = Windows.Forms.MouseButtons.Left Then
+            Dim Pos As Point = Me.PointToClient(MousePosition)
+            Pos.Offset(Offset.X, Offset.Y)
+            sender.Location = Pos
+        End If
+    End Sub
+    Private Sub blackpawn0_MouseMove(ByVal sender As Object, ByVal e As MouseEventArgs) Handles blackpawn0.MouseMove, blackpawn1.MouseMove, blackpawn2.MouseMove, blackpawn3.MouseMove, blackpawn4.MouseMove, blackpawn5.MouseMove, blackpawn6.MouseMove, blackpawn7.MouseMove, blackrook0.MouseMove, blackrook1.MouseMove, blackknight0.MouseMove, blackknight1.MouseMove, blackbishop0.MouseMove, blackbishop1.MouseMove, blackking.MouseMove, blackqueen.MouseMove
+        If e.Button = Windows.Forms.MouseButtons.Left Then
+            Dim Pos As Point = Me.PointToClient(MousePosition)
+            Pos.Offset(Offset.X, Offset.Y)
+            sender.Location = Pos
+        End If
+    End Sub
 End Class
